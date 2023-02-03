@@ -1,0 +1,82 @@
+body{    
+    background-color: black;
+}
+
+
+h1{
+    position:absolute;
+    font-family: 'Solway', serif;
+    -webkit-text-stroke: 0.5px white;
+}
+
+.mx{
+    color: #f66733; 
+    font-size: 200px;
+    margin-left: 450px;
+}
+
+.us{
+    color:#522d80;
+    font-size: 90px;
+    padding: 140px 200px;
+}
+
+.jp{
+    color:#d4c99e;
+    font-size: 80px;
+    margin-top: 120px;
+    margin-left: 700px;
+}
+
+.it{
+    color:#685c53;
+    font-size: 100px;
+    margin-top: 50px;
+    margin-left: 850px;
+}
+
+.hw{
+    color:#a25016;
+    font-size: 200px;
+    margin-top: 300px;
+    margin-left: 30px;
+}
+
+.ru{
+    color:#562e19 ;
+    font-size: 50px;
+    margin-top: 120px;
+    margin-left: 350px;
+}
+
+.ko{
+    color:#86898c;
+    margin-left: 720px;
+}
+
+.po{
+    color:#f9e498;
+    font-size: 140px;
+    padding: 150px 0;
+}
+
+.hi{
+    color:#566127;
+    font-size: 75px;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.he{
+    color:#3a4958;
+    margin-top: 450px;
+    padding: 0 400px;
+    font-size: 80px;
+}
+
+.sw{
+    color:#b5c327;
+    font-size: 80px;
+    margin-top: 400px;
+    margin-left: 700px;
+}
